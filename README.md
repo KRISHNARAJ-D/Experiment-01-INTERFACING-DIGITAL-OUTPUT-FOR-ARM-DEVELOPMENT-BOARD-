@@ -47,7 +47,7 @@ The main features of LPC2148 include the following.
 
 <img height=50% width=50% src="https://user-images.githubusercontent.com/36288975/226189280-ed5dcf1d-dd8d-43ae-815d-491085f4863b.png">
 
-4.select the program name 
+4.select the program name <p>
 <img height=50% width=50% src="https://user-images.githubusercontent.com/36288975/226189316-09832a30-4d1a-4d4f-b8ad-2dc28f137711.png">
 
 
